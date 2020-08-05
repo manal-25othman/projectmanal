@@ -1,0 +1,78 @@
+
+hr{
+	width: 5%;
+	background-color: #0ec09c;;
+	height: 2px;
+}
+
+ section {
+	padding: 75px 0;
+}
+section.row{
+	padding-top: 15px;
+}
+#services i {
+	color:#0ec09c;
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+#protfolio{
+	background-color: #f6f6f6;
+}
+.container row {
+	margin: 50px;
+}
+.space{
+	height: 50px;
+}
+.space1{
+	height: 20px;
+}
+#team img  {
+	border-radius: 50%;
+}
+#team h5 {
+padding-top: 15px;
+}
+#contact-us{
+	background-color: gainsboro;
+}
+#contact-us i {
+	color: #0ec09c;;
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+#contact-us button{
+	background-color: transparent;
+	border: 1px solid #0ec09c;
+	border-radius: 5px;
+	color:#0ec09c;
+}
+#contact-us button:hover{
+color:white;
+background-color: #0ec09c;
+	}
+
+
+textarea{
+	resize: none;
+}
+footer{
+	background-color: #0ec09c;;
+	padding: 30px;
+}
+footer i{
+	color: white;
+	font-size: 60px;
+	padding: 20px;
+}
+@media(max-width: 576){
+	#slider{
+		display: :none;
+}
+ #form1{
+	position: absolute;
+    top: 0;
+    z-index: 99999;
+    padding: 77px;
+}
